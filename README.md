@@ -21,8 +21,6 @@ It leverages Google's Mediapipe for pose estimation and a Random Forest Classifi
 - `pose_landmarks_dataset.csv`: Dataset containing the pose landmarks for push-ups.
 - `pose_pushup_classifier.pkl`: The trained Random Forest model.
 - `main.ipynb`: Jupyter Notebook with code for testing the model.
-- `pushup_train_test_5.8.2025.txt`: Record of the model training and evaluation.
-- `sample_video.mp4` (Optional): A demo video showing the push-up counting in action.
 
 ## How to Run:
 1. **Clone the repository**:
