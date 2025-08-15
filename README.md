@@ -39,7 +39,7 @@ The model is trained on pose landmarks captured during push-ups, using Mediapipe
 The classifier is trained to recognize "up", "down", and "wrong" postures, allowing for accurate rep counting.
 
 ## Demo Video:
-Check out the demo video to see how the model performs in real-time.
+Check out the demo video in asset folder to see how the model performs in real-time.
 
 ## License:
 All rights reserved. No redistribution or modification without permission.
